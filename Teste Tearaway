@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<title>Teste Tearaway</title>
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+	</head>
+
+	<body>
+	<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
+		
+	</body>
+
+</html>
